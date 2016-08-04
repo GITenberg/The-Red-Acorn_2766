@@ -1,0 +1,25 @@
+_repo: The-Red-Acorn_2766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McElroy, John
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '1015'
+    url: http://www.gutenberg.org/2009/agents/1015
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+title: The Red Acorn
+url: http://www.gutenberg.org/ebooks/2766
