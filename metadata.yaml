@@ -1,5 +1,8 @@
 _repo: The-Red-Acorn_2766
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McElroy, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1015'
     url: http://www.gutenberg.org/2009/agents/1015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2766#The-Red-Acorn
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2001-08-01'
 gutenberg_type: Text
